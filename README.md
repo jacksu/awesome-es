@@ -13,3 +13,5 @@
 [ES原理](http://www.shaheng.me/blog/2015/06/elasticsearch--.html)
 
 [ES analyzer](http://mednoter.com/all-about-analyzer-part-one.html)
+
+[docvalues 介绍](http://qindongliang.iteye.com/blog/2297280)

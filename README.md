@@ -8,6 +8,8 @@
 
 [ES权威指南英文](https://www.elastic.co/guide/en/elasticsearch/guide/current/getting-started.html)
 
+[ES安全search-guard](https://github.com/floragunncom/search-guard)
+
 # 索引原理
 
 [ES原理](http://www.shaheng.me/blog/2015/06/elasticsearch--.html)

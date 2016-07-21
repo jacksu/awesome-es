@@ -12,6 +12,8 @@
 
 [elasticsearch相关介绍](http://www.searchtech.pro/)
 
+[solr和elasticsearch对比](https://thinkbiganalytics.com/solr-vs-elastic-search/)
+
 # 索引原理
 
 [ES原理](http://www.shaheng.me/blog/2015/06/elasticsearch--.html)

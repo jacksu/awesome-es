@@ -14,6 +14,10 @@
 
 [solr和elasticsearch对比](https://thinkbiganalytics.com/solr-vs-elastic-search/)
 
+##剖析Elasticsearch集群系列
+* [存储模型和读写操作](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653159983&idx=1&sn=a79206bac0f14d61b47620ceed6cb0da&scene=25#wechat_redirect)
+
+* [分布式的三个C、translog和Lucene段](http://mp.weixin.qq.com/s?src=3&timestamp=1469414334&ver=1&signature=OHXa87n8bBbb6zk0JheVJRkbR7db*44d4QkpzzLtveaSYziZqeh*JAQhnc9oFZ9PdT3UL2CwFVm3e9JexV92OEEagxeeKiMl0-x-XDMkMvjkB00fW0uL7TqBsKQUu8tm0jGjaP53iWC6YtX2nlHzEKrlT3it0BXmtKcxuJ76tKM=)
 # 索引原理
 
 [ES原理](http://www.shaheng.me/blog/2015/06/elasticsearch--.html)

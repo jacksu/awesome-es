@@ -24,6 +24,7 @@
 
 * [nested 和parent使用介绍](https://segmentfault.com/a/1190000002803966) 
 
+* [用Elasticsearch构建电商搜索平台，一个极有代表性的基础技术架构和算法实践案例](http://chuansong.me/n/690173551706)
 
 # 索引原理
 

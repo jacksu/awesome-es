@@ -25,6 +25,9 @@
 * [剖析Elasticsearch集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道](http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text) 
 
 * [nested 和parent使用介绍](https://segmentfault.com/a/1190000002803966) 
+#企业使用案例
+
+*[使用Akka、Kafka和ElasticSearch等构建分析引擎](http://www.infoq.com/cn/articles/use-akka-kafka--build-analysis-engine?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 
 * [用Elasticsearch构建电商搜索平台，一个极有代表性的基础技术架构和算法实践案例](http://chuansong.me/n/690173551706)
 

@@ -18,9 +18,9 @@
 
 * [英文原文](http://insightdataengineering.com/blog/elasticsearch-crud/)
 
-* [存储模型和读写操作](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653159983&idx=1&sn=a79206bac0f14d61b47620ceed6cb0da&scene=25#wechat_redirect)
+* [剖析Elasticsearch集群系列第一篇 存储模型和读写操作](http://www.infoq.com/cn/articles/analysis-of-elasticsearch-cluster-part01?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
 
-* [分布式的三个C、translog和Lucene段](http://mp.weixin.qq.com/s?src=3&timestamp=1469414334&ver=1&signature=OHXa87n8bBbb6zk0JheVJRkbR7db*44d4QkpzzLtveaSYziZqeh*JAQhnc9oFZ9PdT3UL2CwFVm3e9JexV92OEEagxeeKiMl0-x-XDMkMvjkB00fW0uL7TqBsKQUu8tm0jGjaP53iWC6YtX2nlHzEKrlT3it0BXmtKcxuJ76tKM=)
+* [剖析Elasticsearch集群系列第二篇 分布式的三个C、translog和Lucene段](http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part02)
 
 * [nested 和parent使用介绍](https://segmentfault.com/a/1190000002803966) 
 

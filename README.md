@@ -14,6 +14,10 @@
 
 [solr和elasticsearch对比](https://thinkbiganalytics.com/solr-vs-elastic-search/)
 
+##ES管理
+
+[bigdesk](https://github.com/lukas-vlcek/bigdesk)
+
 ##剖析Elasticsearch集群系列
 
 * [英文原文](http://insightdataengineering.com/blog/elasticsearch-crud/)

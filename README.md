@@ -36,6 +36,9 @@
 
 * [用Elasticsearch构建电商搜索平台，一个极有代表性的基础技术架构和算法实践案例](http://chuansong.me/n/690173551706)
 
+* [用Elasticsearch+Redis构建投诉监控系统，看Airbnb如何保证用户持续增长](http://h2ex.com/1584) 
+
+
 # 索引原理
 
 [ES原理](http://www.shaheng.me/blog/2015/06/elasticsearch--.html)

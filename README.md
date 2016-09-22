@@ -38,6 +38,7 @@
 
 * [用Elasticsearch+Redis构建投诉监控系统，看Airbnb如何保证用户持续增长](http://h2ex.com/1584) 
 
+* [亿级规模的Elasticsearch优化实战](http://mp.weixin.qq.com/s?src=3&timestamp=1474505854&ver=1&signature=cOaIC8LeZ7x1h-8*nR35Gib7vU*ibCzA8SSURam4gu2WI2rgkj7ApGNQrqPzJT1sHZH3b5oZ5qEHTYQqA9MHw3PcGwY8C8972omkPQ2S*2cVnUuf3uzCuOglRm*YNG0CFbayLnEPihE8*AUgYb*MPA==)
 
 # 索引原理
 

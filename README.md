@@ -47,3 +47,7 @@
 [ES analyzer](http://mednoter.com/all-about-analyzer-part-one.html)
 
 [docvalues 介绍](http://qindongliang.iteye.com/blog/2297280)
+
+#问题解决
+
+[如何防止elasticsearch的脑裂问题](https://segmentfault.com/a/1190000004504225)

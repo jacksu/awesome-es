@@ -40,7 +40,7 @@
 
 * [亿级规模的Elasticsearch优化实战](http://mp.weixin.qq.com/s?src=3&timestamp=1474505854&ver=1&signature=cOaIC8LeZ7x1h-8*nR35Gib7vU*ibCzA8SSURam4gu2WI2rgkj7ApGNQrqPzJT1sHZH3b5oZ5qEHTYQqA9MHw3PcGwY8C8972omkPQ2S*2cVnUuf3uzCuOglRm*YNG0CFbayLnEPihE8*AUgYb*MPA==)
 
-* [Elasticsearch作为时间序列数据库](https://taowen.gitbooks.io/tsdb/content/elasticsearch/elastics)
+* [Elasticsearch作为时间序列数据库](http://blog.csdn.net/jiao_fuyou/article/details/49663687)
 
 # 索引原理
 

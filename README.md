@@ -53,3 +53,5 @@
 #问题解决
 
 [如何防止elasticsearch的脑裂问题](https://segmentfault.com/a/1190000004504225)
+
+[9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)

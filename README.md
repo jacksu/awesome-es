@@ -18,6 +18,10 @@
 
 [bigdesk](https://github.com/lukas-vlcek/bigdesk)
 
+##容器化
+
+[elasticsearch-cloud-kubernetes](https://github.com/fabric8io/elasticsearch-cloud-kubernetes)
+
 ##剖析Elasticsearch集群系列
 
 * [英文原文](http://insightdataengineering.com/blog/elasticsearch-crud/)

@@ -1,4 +1,4 @@
-#elasticsearch资源汇总
+# elasticsearch资源汇总
 
 [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
 
@@ -14,17 +14,17 @@
 
 [solr和elasticsearch对比](https://thinkbiganalytics.com/solr-vs-elastic-search/)
 
-##ES管理
+## ES管理
 
 [bigdesk](https://github.com/lukas-vlcek/bigdesk)
 
-##容器化
+## 容器化
 
 [elasticsearch-cloud-kubernetes](https://github.com/fabric8io/elasticsearch-cloud-kubernetes)
 
 [Docker Official Image packaging for elasticsearch](https://github.com/docker-library/elasticsearch)
 
-##剖析Elasticsearch集群系列
+## 剖析Elasticsearch集群系列
 
 * [英文原文](http://insightdataengineering.com/blog/elasticsearch-crud/)
 
@@ -36,7 +36,7 @@
 
 * [nested 和parent使用介绍](https://segmentfault.com/a/1190000002803966) 
 
-##企业使用案例
+## 企业使用案例
 
 * [使用Akka、Kafka和ElasticSearch等构建分析引擎](http://www.infoq.com/cn/articles/use-akka-kafka--build-analysis-engine?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 
@@ -57,7 +57,7 @@
 [docvalues 介绍](http://qindongliang.iteye.com/blog/2297280)
 
 [ElasticSearch存储文件解析](https://www.elastic.co/blog/found-dive-into-elasticsearch-storage)
-#问题解决
+# 问题解决
 
 [如何防止elasticsearch的脑裂问题](https://segmentfault.com/a/1190000004504225)
 

@@ -18,6 +18,8 @@
 
 [bigdesk](https://github.com/lukas-vlcek/bigdesk)
 
+[infra-ansible-es-tools](https://github.com/synthesio/infra-ansible-es-tools)---A set of Ansible tasks to manage an Elasticsearch cluster
+
 ## 容器化
 
 [elasticsearch-cloud-kubernetes](https://github.com/fabric8io/elasticsearch-cloud-kubernetes)

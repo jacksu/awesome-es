@@ -20,6 +20,8 @@
 
 [infra-ansible-es-tools](https://github.com/synthesio/infra-ansible-es-tools)---A set of Ansible tasks to manage an Elasticsearch cluster
 
+[elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin)---Free Elasticsearch and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing 
+
 ## 容器化
 
 [elasticsearch-cloud-kubernetes](https://github.com/fabric8io/elasticsearch-cloud-kubernetes)

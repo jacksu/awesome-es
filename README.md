@@ -67,3 +67,7 @@
 
 [9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
 
+## jar conflic
+[To shade or not to shade](https://www.elastic.co/blog/to-shade-or-not-to-shade)
+
+[通过maven-shade-plugin 解决Elasticsearch与hbase的jar包冲突问题](http://blog.csdn.net/sunshine920103/article/details/51659936)

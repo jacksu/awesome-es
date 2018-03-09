@@ -22,6 +22,8 @@
 
 [elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin)---Free Elasticsearch and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing 
 
+[es-monitor](https://github.com/taowen/es-monitor)--query metric from elasticsearch using sql
+
 ## 容器化
 
 [elasticsearch-cloud-kubernetes](https://github.com/fabric8io/elasticsearch-cloud-kubernetes)

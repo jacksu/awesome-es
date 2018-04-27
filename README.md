@@ -14,6 +14,8 @@
 
 [solr和elasticsearch对比](https://thinkbiganalytics.com/solr-vs-elastic-search/)
 
+[将 ELASTICSEARCH 写入速度优化到极限](https://www.easyice.cn/archives/207)
+
 ## ES管理
 
 [bigdesk](https://github.com/lukas-vlcek/bigdesk)
